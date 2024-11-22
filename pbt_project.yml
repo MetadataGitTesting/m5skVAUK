@@ -1,0 +1,57 @@
+name: emilio.cartwright
+description: functionalities
+version: 0.0.1
+author: nkp6zve8.tendi3p7@mpfsyu94.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: emiliocartwright
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:02:51'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:02:51'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:02:51.372975Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1429351858'
+  createdAt: '2024-11-22T23:02:51.372975Z'
+  type: plibMaven
+projectDependencies:
+  '137':
+    projectUID: 137
+    projectName: arron.konopelski
+    repositoryPath: gitUri=http://gitserver:3000/dev_ihrVis4x_team_217/dev_ihrVis4x_project_137.git&subPath=
+    version: arron.konopelski/0.3.2.306
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 23:02:50'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
